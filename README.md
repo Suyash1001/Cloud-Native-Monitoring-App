@@ -64,6 +64,31 @@ kubectl apply -f eks.yaml
 kubectl get services
 ```
 
+### 🚧 Future Enhancements
+
+* Integrate Prometheus & Grafana
+
+* Add alerting for high CPU/Memory
+
+* CI/CD using GitHub Actions
+
+* Auto-scaling with HPA
+
+* CloudWatch integration
+
+
+## 👨‍💻 Author
+
+Suyash Srivastava
+
+DevOps Engineer (Fresher)
+
+📧 Email: srivastavas160@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/suyash-srivastava-9b7516229
+
+💻 GitHub: https://github.com/Suyash1001
+
 
 
 
